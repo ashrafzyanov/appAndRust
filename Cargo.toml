@@ -1,0 +1,7 @@
+[package]
+name = "appAndRust"
+version = "0.1.0"
+authors = ["Albert Ashrafzyanov <dial89@mail.ru>"]
+edition = "2018"
+
+[dependencies]
